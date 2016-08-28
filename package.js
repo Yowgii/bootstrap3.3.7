@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jswanson:bootstrap3.3.7',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'The most popular front-end framework for developing responsive, mobile first projects on the web.',
   git: 'https://github.com/jasonswanson/bootstrap3.3.7.git',
   documentation: 'README.md'
